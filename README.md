@@ -1,3 +1,5 @@
+![image](https://github.com/Munchkinland/demographic_health_data_project/assets/92251234/0929f6cd-add2-4ed0-abec-ed9966719cfa)
+
 Chronic Kidney Disease Prediction
 Justification
 After thorough analysis of the provided dataframe and data dictionary available here, our project aims to predict the occurrence of Chronic Kidney Disease (CKD). We believe that the dataset is sufficiently representative to leverage linear regression techniques for this prediction.
